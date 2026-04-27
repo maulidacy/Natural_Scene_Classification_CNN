@@ -39,7 +39,7 @@ Data training dibagi kembali menjadi training set dan validation set menggunakan
 Tahapan preprocessing yang dilakukan:
 
 - Resize gambar ke ukuran `150x150` piksel
-- Normalisasi nilai piksel ke rentang `0–1`
+- Normalisasi nilai piksel ke rentang `0-1`
 - Pembagian data training dan validation
 - Data augmentation pada training set
 
